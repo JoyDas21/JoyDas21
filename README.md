@@ -1,4 +1,4 @@
-![logo](https://github.com/JoyDas21/JoyDas21/blob/main/Dark-Woods-Banner.jpg)
+![logo](https://github.com/JoyDas21/JoyDas21/blob/main/horizontal-banner-forest-meadow-silhouettes-trees-grass-magical-misty-landscape-fog-blue-gray-illustration-bookmark-225954690.jpg)
 <h1 align="center">Hi 👋, I'm Joy Das</h1>
 <h3 align="center">A student of Daffodil International University in the department of Computer Science and Engineering.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
